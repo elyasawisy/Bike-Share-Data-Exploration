@@ -1,6 +1,7 @@
 # Bike-Share-Data-Exploration
 A Python-based data analysis project exploring bike-share usage across three major U.S. cities: Chicago, New York City, and Washington.
-Overview
+
+## Overview
 
 This project uses Python to explore real bike-share datasets and uncover insights through descriptive statistics.
 The program imports raw data, processes it using Pandas, and computes meaningful statistics related to user trips, stations, travel times, and demographics.
@@ -48,6 +49,7 @@ Designing user-interactive command-line programs
 Writing clear, maintainable, and modular code
 
 ## How to Run
+bash:
 python bikeshare.py
 
 
